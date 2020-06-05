@@ -128,7 +128,7 @@
   </ItemGroup>
   <ItemGroup>
 <ProjectReference Include="..\Musicality.Remote.Forms\Musicality.Remote.Forms.csproj">
-      <Project>{45ACC982-0C6A-44BC-860C-2F14F74F7294}</Project>
+      <Project>{E6DECB4F-0467-49DC-854F-E52035C1C654}</Project>
       <Name>Musicality.Remote.Forms</Name>
     </ProjectReference>
   </ItemGroup>
